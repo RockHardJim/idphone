@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1594/trunk/src/modules/video_coding/codecs/vp8/main/interface
+END
+vp8_common_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1238/trunk/src/modules/video_coding/codecs/vp8/main/interface/vp8_common_types.h
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1594/trunk/src/modules/video_coding/codecs/vp8/main/interface/vp8.h
+END

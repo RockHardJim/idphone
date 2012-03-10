@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1140/trunk/src/common_video/jpeg/main/test
+END
+test_jpeg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/892/trunk/src/common_video/jpeg/main/test/test_jpeg.cc
+END
+test_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1140/trunk/src/common_video/jpeg/main/test/test_buffer.cc
+END
+test_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/156/trunk/src/common_video/jpeg/main/test/test_buffer.h
+END

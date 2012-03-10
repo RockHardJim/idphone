@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1341/trunk/src/modules/video_render/main/source/windows
+END
+i_video_render_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/156/trunk/src/modules/video_render/main/source/windows/i_video_render_win.h
+END
+video_render_directdraw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1341/trunk/src/modules/video_render/main/source/windows/video_render_directdraw.cc
+END
+video_render_directdraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1140/trunk/src/modules/video_render/main/source/windows/video_render_directdraw.h
+END
+video_render_direct3d9.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1337/trunk/src/modules/video_render/main/source/windows/video_render_direct3d9.cc
+END
+video_render_windows_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/156/trunk/src/modules/video_render/main/source/windows/video_render_windows_impl.cc
+END
+video_render_direct3d9.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/156/trunk/src/modules/video_render/main/source/windows/video_render_direct3d9.h
+END
+video_render_windows_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/156/trunk/src/modules/video_render/main/source/windows/video_render_windows_impl.h
+END

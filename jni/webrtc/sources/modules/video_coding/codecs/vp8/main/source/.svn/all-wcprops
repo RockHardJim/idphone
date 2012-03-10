@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1624/trunk/src/modules/video_coding/codecs/vp8/main/source
+END
+vp8.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1624/trunk/src/modules/video_coding/codecs/vp8/main/source/vp8.cc
+END
+reference_picture_selection_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1082/trunk/src/modules/video_coding/codecs/vp8/main/source/reference_picture_selection_unittest.cc
+END
+reference_picture_selection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1082/trunk/src/modules/video_coding/codecs/vp8/main/source/reference_picture_selection.cc
+END
+reference_picture_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1082/trunk/src/modules/video_coding/codecs/vp8/main/source/reference_picture_selection.h
+END
+vp8.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1413/trunk/src/modules/video_coding/codecs/vp8/main/source/vp8.gypi
+END
+temporal_layers_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1479/trunk/src/modules/video_coding/codecs/vp8/main/source/temporal_layers_unittest.cc
+END
+temporal_layers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1479/trunk/src/modules/video_coding/codecs/vp8/main/source/temporal_layers.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1510/trunk/src/modules/video_coding/codecs/vp8/main/source/Android.mk
+END
+temporal_layers.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1479/trunk/src/modules/video_coding/codecs/vp8/main/source/temporal_layers.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1485/trunk/src/modules/video_capture/main/source
+END
+device_info_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/device_info_impl.cc
+END
+video_capture_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1330/trunk/src/modules/video_capture/main/source/video_capture_impl.h
+END
+video_capture.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1406/trunk/src/modules/video_capture/main/source/video_capture.gypi
+END
+device_info_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/device_info_impl.h
+END
+video_capture_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/852/trunk/src/modules/video_capture/main/source/video_capture_factory.cc
+END
+video_capture_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/580/trunk/src/modules/video_capture/main/source/video_capture_config.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1485/trunk/src/modules/video_capture/main/source/Android.mk
+END
+video_capture_delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/src/modules/video_capture/main/source/video_capture_delay.h
+END
+video_capture_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1338/trunk/src/modules/video_capture/main/source/video_capture_impl.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1281/trunk/src/video_engine/main/test/android_test/jni
+END
+vie_android_java_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/221/trunk/src/video_engine/main/test/android_test/jni/vie_android_java_api.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1281/trunk/src/video_engine/main/test/android_test/jni/Android.mk
+END
+org_webrtc_videoengineapp_vie_android_java_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/jni/org_webrtc_videoengineapp_vie_android_java_api.h
+END

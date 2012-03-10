@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1279/trunk/CSipSimple/src/com/csipsimple/ui
+END
+InCallActivity2.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/InCallActivity2.java
+END
+InCallMediaControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/InCallMediaControl.java
+END
+SipHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1268/trunk/CSipSimple/src/com/csipsimple/ui/SipHome.java
+END
+PickupSipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/PickupSipUri.java
+END
+OutgoingCallChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1279/trunk/CSipSimple/src/com/csipsimple/ui/OutgoingCallChooser.java
+END
+EditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/EditFilter.java
+END
+ReorderAccountsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/ReorderAccountsList.java
+END

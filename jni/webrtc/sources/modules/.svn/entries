@@ -1,0 +1,104 @@
+10
+
+dir
+1670
+http://webrtc.googlecode.com/svn/trunk/src/modules
+http://webrtc.googlecode.com/svn
+
+
+
+2012-02-10T12:41:57.734736Z
+1669
+mflodman@webrtc.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4adac7df-926f-26a2-2b94-8c16560cd09d
+
+audio_device
+dir
+
+audio_coding
+dir
+
+video_capture
+dir
+
+video_coding
+dir
+
+audio_conference_mixer
+dir
+
+audio_processing
+dir
+
+rtp_rtcp
+dir
+
+interface
+dir
+
+video_processing
+dir
+
+utility
+dir
+
+udp_transport
+dir
+
+video_render
+dir
+
+modules.gyp
+file
+
+
+
+
+2012-03-05T04:47:28.409190Z
+e0d21935f5bdb392d228780ae6060d7c
+2012-01-10T14:09:18.963331Z
+1373
+pwestin@webrtc.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2527
+
+documentation
+dir
+
+media_file
+dir
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1653/trunk/src/modules/audio_device/main/source
+END
+audio_device_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1018/trunk/src/modules/audio_device/main/source/audio_device_buffer.h
+END
+audio_device_generic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/592/trunk/src/modules/audio_device/main/source/audio_device_generic.cc
+END
+audio_device_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/592/trunk/src/modules/audio_device/main/source/audio_device_generic.h
+END
+audio_device_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1330/trunk/src/modules/audio_device/main/source/audio_device_impl.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/959/trunk/src/modules/audio_device/main/source/Android.mk
+END
+audio_device.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/959/trunk/src/modules/audio_device/main/source/audio_device.gypi
+END
+audio_device_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1330/trunk/src/modules/audio_device/main/source/audio_device_impl.h
+END
+audio_device_utility.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/486/trunk/src/modules/audio_device/main/source/audio_device_utility.cc
+END
+audio_device_utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/src/modules/audio_device/main/source/audio_device_utility.h
+END
+audio_device_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/156/trunk/src/modules/audio_device/main/source/audio_device_config.h
+END
+audio_device_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1108/trunk/src/modules/audio_device/main/source/audio_device_buffer.cc
+END

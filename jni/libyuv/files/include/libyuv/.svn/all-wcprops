@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/169/trunk/include/libyuv
+END
+format_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/150/trunk/include/libyuv/format_conversion.h
+END
+rotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/101/trunk/include/libyuv/rotate.h
+END
+video_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/128/trunk/include/libyuv/video_common.h
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/141/trunk/include/libyuv/convert.h
+END
+cpu_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/115/trunk/include/libyuv/cpu_id.h
+END
+basic_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/105/trunk/include/libyuv/basic_types.h
+END
+planar_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/143/trunk/include/libyuv/planar_functions.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/include/libyuv/version.h
+END
+compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/166/trunk/include/libyuv/compare.h
+END
+scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/101/trunk/include/libyuv/scale.h
+END

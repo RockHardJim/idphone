@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/347/trunk/src/modules/audio_device/main/source/mac/portaudio
+END
+pa_ringbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/347/trunk/src/modules/audio_device/main/source/mac/portaudio/pa_ringbuffer.h
+END
+pa_memorybarrier.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/347/trunk/src/modules/audio_device/main/source/mac/portaudio/pa_memorybarrier.h
+END
+pa_ringbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/347/trunk/src/modules/audio_device/main/source/mac/portaudio/pa_ringbuffer.c
+END

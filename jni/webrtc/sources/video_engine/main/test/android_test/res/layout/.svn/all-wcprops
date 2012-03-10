@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout
+END
+tabhost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/tabhost.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/main.xml
+END
+aconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/aconfig.xml
+END
+send.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/send.xml
+END
+vconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/vconfig.xml
+END
+both.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/both.xml
+END
+stats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/156/trunk/src/video_engine/main/test/android_test/res/layout/stats.xml
+END

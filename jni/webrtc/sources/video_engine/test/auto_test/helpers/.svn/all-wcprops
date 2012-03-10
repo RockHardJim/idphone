@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1525/trunk/src/video_engine/test/auto_test/helpers
+END
+vie_window_creator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/helpers/vie_window_creator.h
+END
+vie_to_file_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1281/trunk/src/video_engine/test/auto_test/helpers/vie_to_file_renderer.h
+END
+vie_fake_camera.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1525/trunk/src/video_engine/test/auto_test/helpers/vie_fake_camera.cc
+END
+vie_fake_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/helpers/vie_fake_camera.h
+END
+vie_file_capture_device.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/helpers/vie_file_capture_device.cc
+END
+vie_file_capture_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/helpers/vie_file_capture_device.h
+END
+vie_window_creator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/988/trunk/src/video_engine/test/auto_test/helpers/vie_window_creator.cc
+END
+vie_to_file_renderer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1269/trunk/src/video_engine/test/auto_test/helpers/vie_to_file_renderer.cc
+END

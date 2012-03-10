@@ -1,0 +1,7 @@
+<project default="nightly">
+	<target name="nightly">
+		<replaceregexp file="AndroidManifest.xml" match='android:icon="@drawable/ic_launcher_phone"'
+			replace='android:icon="@drawable/ic_launcher_nightly"' />
+		
+	</target>
+</project>

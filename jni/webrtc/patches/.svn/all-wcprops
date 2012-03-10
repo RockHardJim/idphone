@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1251/trunk/CSipSimple/jni/webrtc/patches
+END
+000build_ndk_fixes.diff
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1251/trunk/CSipSimple/jni/webrtc/patches/000build_ndk_fixes.diff
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1251/trunk/CSipSimple/jni/webrtc/patches/series
+END

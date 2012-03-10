@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1259/trunk/CSipSimple/src/com/csipsimple/ui/prefs
+END
+PrefsMedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsMedia.java
+END
+Codecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/Codecs.java
+END
+MainPrefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/MainPrefs.java
+END
+PrefsFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsFilters.java
+END
+AudioTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/AudioTester.java
+END
+PrefsNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1259/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsNetwork.java
+END
+GenericPrefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/GenericPrefs.java
+END
+PrefsFast.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsFast.java
+END
+PrefsUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsUI.java
+END
+PrefsCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1215/trunk/CSipSimple/src/com/csipsimple/ui/prefs/PrefsCalls.java
+END

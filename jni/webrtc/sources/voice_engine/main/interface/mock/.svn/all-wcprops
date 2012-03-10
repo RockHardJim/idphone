@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1656/trunk/src/voice_engine/main/interface/mock
+END
+mock_voe_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1656/trunk/src/voice_engine/main/interface/mock/mock_voe_observer.h
+END
+mock_voe_connection_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1656/trunk/src/voice_engine/main/interface/mock/mock_voe_connection_observer.h
+END
